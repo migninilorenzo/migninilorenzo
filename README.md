@@ -7,23 +7,13 @@
 
 ## 🚀 About Me
 
-Odoo Developer passionate about digital transformation and business process optimization.  
-After a rich career in logistics, retail management, and healthcare, I successfully transitioned into ERP development.
+I'm an Odoo Developer with an unusual background — before diving into ERP development, I spent years working in **logistics, retail management, and healthcare**. That experience taught me how businesses actually work from the inside, and it's what drives me to build ERP solutions that are practical, not just technically correct.
 
-- 🎓 Completed an intensive **6-month Odoo development training** at Technocité (Apr–Oct 2025), covering **Python, PostgreSQL, XML/QWeb, OWL/JS, and Git**
-- 💼 Currently **interning at SoWhat! Studio** (Silver Odoo Partner), working on real-world projects with **Odoo Studio** and **Odoo.sh**
+In 2025 I made a deliberate career pivot: I completed an intensive **6-month Odoo development training at Technocité** (Apr–Oct 2025), covering Python, PostgreSQL, XML/QWeb, OWL/JS, and Git. I'm now **interning at SoWhat! Studio** (Silver Odoo Partner), where I work on real business workflows using **Odoo Studio** and **Odoo.sh**.
+
 - 🌍 Based in **Ath, Wallonia, Belgium**
-- 🔍 **Open to work** — looking for my first role as an **Odoo Developer** in **Belgium or abroad** (especially **Italy, Luxembourg, France, and Switzerland**)
-
-My previous experience in logistics, retail, and healthcare helps me better understand business processes and build practical ERP solutions.
-
----
-
-## 🌐 Languages
-
-- 🇮🇹 **Italian** — Native
-- 🇫🇷 **French** — Professional
-- 🇬🇧 **English** — Intermediate (B1)
+- 🔍 **Open to work** — looking for my first role as an **Odoo Developer** in Belgium or abroad (especially **Italy, Luxembourg, France, and Switzerland**)
+- 💡 Hybrid profile: I bridge the gap between **technical development** and **functional business understanding**
 
 ---
 
@@ -45,27 +35,39 @@ My previous experience in logistics, retail, and healthcare helps me better unde
 
 ---
 
+## 🌐 Languages
+
+- 🇮🇹 **Italian** — Native
+- 🇫🇷 **French** — Professional
+- 🇬🇧 **English** — B1 (good reading and listening comprehension; actively improving spoken fluency)
+
+---
+
 ## 📌 Featured Projects
 
 ### 🚗 [bestcar_management](https://github.com/migninilorenzo/bestcar_management)
-Final project from my Technocité training — a car management system built with Odoo.
 
-**Highlights:**
-- Vehicle and customer management
-- Odoo views and business logic customization
-- QWeb templates and reporting
-- PostgreSQL-backed Odoo module development
+A car dealership management system built as the final project of my Technocité training. The goal was to simulate a real business need: managing a vehicle fleet and customer relationships entirely within a custom Odoo module.
+
+**What it does:**
+- Vehicle and customer lifecycle management
+- Custom Odoo views and business logic
+- QWeb templates for reporting
+- PostgreSQL-backed data model
+
+**What I learned:** Structuring a complete Odoo module from scratch, writing reusable QWeb templates, and managing the relationship between business logic and the ORM layer.
 
 `Python` `Odoo` `PostgreSQL` `QWeb`
 
 ---
 
-## 🔨 What I’m Working On
+## 🔨 What I'm Working On
 
-- Odoo Studio customizations for real business workflows
-- Odoo.sh development and deployment practices
-- Custom module development (Python, XML, QWeb)
-- Improving my **functional + technical** ERP skills (hybrid profile)
+At SoWhat! Studio, I'm currently:
+- Building **Odoo Studio customizations** for SME clients — adapting views, automations, and workflows to fit real operational needs
+- Working with **Odoo.sh** for deployment and version management in a production environment
+- Developing custom modules in Python/XML for business-specific requirements
+- Strengthening my **functional + technical hybrid profile** to handle both client-facing analysis and backend development
 
 ---
 
@@ -81,8 +83,8 @@ Final project from my Technocité training — a car management system built wit
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/migninilorenzo/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:migninilorenzo@gmail.com)
 
-I’m currently looking for a **Junior Odoo Developer** opportunity in **Belgium or abroad** (especially **Italy, Luxembourg, France, and Switzerland**), and I’m open to **on-site, hybrid, or remote** roles depending on the opportunity.
+I'm currently looking for a **Junior Odoo Developer** opportunity in **Belgium or abroad** (especially Italy, Luxembourg, France, and Switzerland). Open to **on-site, hybrid, or remote** depending on the role.
 
 ---
 
-*“Every expert was once a beginner.”* 💡
+*"Every expert was once a beginner."* 💡
