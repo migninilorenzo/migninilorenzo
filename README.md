@@ -13,7 +13,6 @@ In 2025 I made a deliberate career pivot: I completed an intensive **6-month Odo
 
 - 🌍 Based in **Ath, Wallonia, Belgium**
 - 🔍 **Open to work** — looking for my first role as an **Odoo Developer** in Belgium or abroad (especially **Italy, Luxembourg, France, and Switzerland**)
-- 💡 Hybrid profile: I bridge the gap between **technical development** and **functional business understanding**
 
 ---
 
