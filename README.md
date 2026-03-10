@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=714B67&height=220&section=header&text=Lorenzo%20Mignini&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Odoo%20Developer%20%7C%20ERP%20%26%20Marketplace%20%7C%20Python%20%2B%20SaaS&descAlignY=60&descSize=18" alt="Lorenzo Mignini Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=714B67&height=220&section=header&text=Lorenzo%20Mignini&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Odoo%20Developer%20%7C%20ERP%20%C2%B7%20Marketplace%20%7C%20Python%20%C2%B7%20SaaS&descAlignY=60&descSize=18" alt="Lorenzo Mignini Banner" />
 </p>
 
 # Hi there, I'm Lorenzo Mignini 👋
