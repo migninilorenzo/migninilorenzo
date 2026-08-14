@@ -100,7 +100,3 @@ A car dealership management module, final project of my Technocité training, bu
 [LinkedIn](https://www.linkedin.com/in/migninilorenzo/) · [migninilorenzo@gmail.com](mailto:migninilorenzo@gmail.com)
 
 Looking for an **Odoo functional consultant** role — Belgium (on-site or hybrid), or remote across the EU.
-
----
-
-*"Every expert was once a beginner."* 💡
